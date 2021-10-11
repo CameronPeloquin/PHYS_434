@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# Jupyter temp files
+.bad_git/
+.gitconfig
+.jupyter/
+.local/
+.ssh/
+.viminfo
+
 # Distribution / packaging
 .Python
 build/
