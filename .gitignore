@@ -13,6 +13,7 @@ __pycache__/
 .local/
 .ssh/
 .viminfo
+.bash_history
 
 # Distribution / packaging
 .Python
