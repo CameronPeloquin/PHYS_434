@@ -13,6 +13,9 @@ __pycache__/
 .local/
 .ssh/
 .viminfo
+.bash_history
+*.swp
+*.swo
 
 # Distribution / packaging
 .Python
