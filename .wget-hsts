@@ -1,0 +1,7 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+canvas.uw.edu	0	0	1635535844	31536000
+inst-fs-iad-prod.inscloudgate.net	0	0	1635535845	31536000
+a10-81537971.cluster10.canvas-user-content.com	0	0	1635535845	31536000
+a10-81537969.cluster10.canvas-user-content.com	0	0	1635535784	31536000
