@@ -16,6 +16,9 @@ __pycache__/
 .bash_history
 *.swp
 *.swo
+gammaray_lab4.h5
+images.h5
+gitignore
 
 # Distribution / packaging
 .Python
