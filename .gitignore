@@ -20,6 +20,8 @@ __pycache__/
 #data
 higgs_100000_pt_1000_1200.pkl
 qcd_100000_pt_1000_1200.pkl
+data_highLumi_pt_1000_1200.h5
+data_lowLumi_pt_1000_1200.h5
 
 # Distribution / packaging
 .Python
